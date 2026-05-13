@@ -1,0 +1,2 @@
+# operadores
+desafio relâmpago trabalho
